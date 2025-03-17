@@ -5,7 +5,7 @@ TOOL UNPACK & REPACK OBB MAP PAK ALL PUBG BGMI
 termux-setup-storage
 ```
 ```
-pkg update -y
+pkg update
 ```
 ```
 pkg upgrade
