@@ -20,7 +20,7 @@ pkg upgrade -y
 pkg install git -y
 ```
 ```
-git clone https://github.com/CHEN-LITE/CHEN-LITE.git
+git clone https://github.com/CHEN-LITE/CHEN2.0.git
 ```
 ```
 cd CHEN2.0
