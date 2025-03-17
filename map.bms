@@ -1,0 +1,52 @@
+
+get ASIZE asize
+get NAME filename  
+
+filexor 0x79
+log NAME 0 ASIZE   
+
+/*
+filexor 0x78
+log NAME 0 ASIZE
+
+filexor ""
+log NAME 0 ASIZE
+*/
+
+/*
+comtype zstd
+clog NAME 0 ASIZE ASIZE
+*/
+
+
+/*
+
+set key binary "4519"
+string k1 b key
+print "key %k1%"
+
+string b1 h k1
+print "b1 %b1%"
+
+
+print "bms: %bms%"
+*/
+/*
+comtype oodle
+clog NAME 0 ASIZE 1275
+*/
+/*
+math size = 0x185CA358
+math offset = 0x18156298
+math size - offset
+log NAME offset size
+*/
+
+/*
+comtype zstd
+clog NAME 200767799 218 688
+*/
+/*
+comtype base64_compress
+clog NAME 0 ASIZE ASIZE
+*/
