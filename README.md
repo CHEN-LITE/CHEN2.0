@@ -5,6 +5,9 @@ TOOL UNPACK & REPACK OBB MAP PAK ALL PUBG BGMI
 termux-setup-storage
 ```
 ```
+pkg install libdw
+```
+```
 pkg update
 ```
 ```
