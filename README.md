@@ -35,7 +35,7 @@ bash setup
 
 TOOL KEY:-
 ```
-281cafb179de4653861440f47e2bb544
+3100591148badcb6a2530dfd00ca7208
 ```
 
 HOW TO USE MY TOOL:-
