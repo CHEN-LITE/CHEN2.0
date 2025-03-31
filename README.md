@@ -8,6 +8,9 @@ git clone https://github.com/CHEN-LITE/CHEN2.0.git
 cd CHEN2.0
 ```
 ```
+chmod +x setup
+```
+```
 bash setup
 ```
 ## Note: Next time when entering the tool, type "
