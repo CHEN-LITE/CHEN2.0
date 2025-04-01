@@ -2,6 +2,9 @@ TOOL UNPACK & REPACK OBB MAP PAK UNZIP ZIP COMERS CHACK ALL PUBG BGMI
 
 ## Enter This Command:
 ```
+pkg install git
+```
+```
 git clone https://github.com/CHEN-LITE/CHEN2.0.git
 ```
 ```
