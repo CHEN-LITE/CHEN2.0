@@ -11,7 +11,7 @@ git clone https://github.com/CHEN-LITE/CHEN2.0.git
 cd CHEN2.0
 ```
 ```
-chmod +x setup
+./setup
 ```
 ```
 bash setup
